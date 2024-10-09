@@ -1,0 +1,30 @@
+body{
+    background-image: url(2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.insert{
+    margin-left: 13.2cm;
+    margin-top: 6.8cm;   
+}
+
+.ins{
+    width: 30%;
+    height: 40px;
+}
+
+.btn{
+    margin-top: 18px;
+    margin-left: 59px;
+    width: 100px;
+    height: 60px;
+    font-size: large;
+    background-color: aqua;
+}
+
+.btn:hover{
+    background-color: red;
+}
